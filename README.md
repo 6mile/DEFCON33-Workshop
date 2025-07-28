@@ -2,8 +2,10 @@
 
 ## Everything you always wanted to know about npm malware (and more)
 
-Workshop location:  in the North Hall L2 N254
-Workshop time: 9am - 1pm 
+- Workshop location: LVCC North Hall L2 N254
+- Workshop time: 9am - 1pm 
+
+[Hacker Tracker Link](https://hackertracker.app/event/?conf=DEFCON33&event=61720)
 
 ### Created by [6mile](https://github.com/6mile/)
 
