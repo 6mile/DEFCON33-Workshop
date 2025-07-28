@@ -1,6 +1,9 @@
 # DEFCON33 Workshop - Open Source Malware 101
 
-##Everything you always wanted to know about npm malware (and more)
+## Everything you always wanted to know about npm malware (and more)
+
+Workshop location:  in the North Hall L2 N254
+Workshop time: 9am - 1pm 
 
 ### Created by [6mile](https://github.com/6mile/)
 
