@@ -1,6 +1,6 @@
 # DEFCON33 Workshop - Open Source Malware 101
 
-## Everything you always wanted to know about npm malware (and more)
+## Everything you always wanted to know about NPM malware (and more)
 
 [Hacker Tracker Link](https://hackertracker.app/event/?conf=DEFCON33&event=61720)
 
@@ -12,11 +12,11 @@
 Thanks so much for signing up for this workshop!  I am very excited to be doing this at DEF CON 33!
 I have created this repository so we can use this as a central source of information for this workshop.
 
-I will be adding more content to this repo around the first of August.
+This 4 hour DEF CON Workshop is a cut down version of a two day class that I'm doing.  As such, there is a lot of content and we probably won't get to all of it in 4 hours.  
 
 ### Description of the Workshop
 
-This hands-on workshop will teach both software engineers, and infosec practitioners how npm malware works. We’ll learn what makes npm malware unique from other software package malware, and how the author has been using his knowledge of npm malware in his research, and to deliver unique offensive security engagements. Most importantly how to identify, analyze, create and defend against malicious NPM packages in this workshop.
+This hands-on workshop will teach both software engineers, and infosec practitioners how NPM malware works. We’ll learn what makes NPM malware unique from other software package malware, and how the author has been using his knowledge of NPM malware in his research, and to deliver unique offensive security engagements. Most importantly how to identify, analyze, create and defend against malicious NPM packages in this workshop.
 
 ### Workshop requirements
 
@@ -30,33 +30,33 @@ You should have pre-existing GitHub and NPM accounts.  One of the exercises will
 
 The 4-hour workshop will cover:
 
+- Intro to 6mile
 - Types of software risk: accidental vs malicious 
 - Definition of malicious
+- Why is Javascript malware different?
 - Where do you find open-source malware?
-  - Create a new NPM account - Exercise #1
-- Find some malware - Exercise #2
+  - Create a new NPM account - EXERCISE
+- How does open-source malware evade security tools?
+  - SCA not built for malware - EXERCISE
+  - SAST doesn’t help either
+- Find some malware - EXERCISE
 - TVPO:  How do we threat model?
 - Open-source malware TTP’s
-  - Dependency Confusion - Exercise #3
+  - Dependency Confusion - EXERCISE
   - AI slop
-  - Typosquatting - Exercise #4
-  - Targeting maintainers - Exercise #5
-- How does open-source malware evade security tools?
-  - SCA not built for malware - Exercise #6
-  - SAST doesn’t help either
-- Why is NPM the most malicious registry in the world?
-- Open-source malware archetypes (11-11.40am)
-  - Analysing new malware - Exercise #7 
-- Threat actor profiles (11.40-12)
-- Building NPM malware - Exercise #8 (12-1pm)
+  - Typosquatting - EXERCISE
+  - Targeting maintainers - EXERCISE
+- Open-source malware archetypes
+  - Analysing new malware - EXERCISE
+- Threat actor profiles
+- Building NPM malware - EXERCISE
   - Creating your own malicious package on NPM
   - Obfuscation
   - Increasing package downloads
+- How to be better going forward
 - Resources
 
-
 ## Workshop Tools
-
 
 ### Additional Resources
 
@@ -64,7 +64,7 @@ The 4-hour workshop will cover:
 - https://osv.dev/list
 - https://github.com/lxyeternal/pypi_malregistry/
 - https://github.com/DataDog/malicious-software-packages-dataset/
-- https://x.com/npm_malware
+- https://x.com/NPM_malware
 - https://github.com/tstromberg/supplychain-attack-data
 - https://dasfreak.github.io/Backstabbers-Knife-Collection/
 - https://intel.aikido.dev/
