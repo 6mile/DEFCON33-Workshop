@@ -32,6 +32,7 @@ The 4-hour workshop will cover:
 
 - Intro to 6mile
 - Types of software risk: accidental vs malicious 
+- Contest rules
 - Definition of malicious
 - Why is Javascript malware different?
 - Where do you find open-source malware?
@@ -56,7 +57,27 @@ The 4-hour workshop will cover:
 - How to be better going forward
 - Resources
 
+## Open-Source Bingo
+
+We will play bingo during the workshop.  The bingo card has descriptions of open source malware components.  Examples are dependency confusion, typosquatting, and exfiltration.  As you are researching malicious packages during the workshop you will find examples of malicious package components on the bingo card.  The first person to match five in a row wins!
+
+![Bingo Card](./DC33-workshop-bingo-card.jpg)
+
 ## Workshop Tools
+
+## Malware Samples -- ALERT:  THESE ARE REAL LIVE JAVASCRIPT MALWARE FILES
+
+Please see the [malware](https://github.com/6mile/DEFCON33-Workshop/malware)  directory in the repository.
+
+### Open-Source Malware Archetypes
+
+- Reverse shell and remote access
+- Exfil variables or data
+- Crypto miners
+- Crypto drainers
+- Infostealers
+- Ransomware
+
 
 ### Additional Resources
 
