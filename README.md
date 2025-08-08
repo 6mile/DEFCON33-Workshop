@@ -38,6 +38,7 @@ The 4-hour workshop will cover:
 - Where do you find open-source malware?
   - Create a new NPM account - EXERCISE
 - How does open-source malware evade security tools?
+  - NPM CLI - EXERCISE
   - SCA not built for malware - EXERCISE
   - SAST doesn’t help either
 - Find some malware - EXERCISE
@@ -64,6 +65,8 @@ We will play bingo during the workshop.  The bingo card has descriptions of open
 ![Bingo Card](./DC33-workshop-bingo-card.jpg)
 
 ## Workshop Tools
+
+
 
 ## Malware Samples -- ALERT:  THESE ARE REAL LIVE JAVASCRIPT MALWARE FILES
 
